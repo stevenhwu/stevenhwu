@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=stevenhwu)](https://github.com/LordDashMe/github-contribution-stats/)
 
