@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=stevenhwu)](https://github.com/LordDashMe/github-contribution-stats/)
+
 <!--
 **stevenhwu/stevenhwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=stevenhwu)](https://github.com/LordDashMe/github-contribution-stats/)
 
 Here are some ideas to get you started:
 
