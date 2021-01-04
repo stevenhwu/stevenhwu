@@ -1,7 +1,12 @@
 
+
+![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenhwu&count_private=true&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhwu&layout=compact&langs_count=8&count_private=true&theme=dark)
+<!--
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=stevenhwu)](https://github.com/LordDashMe/github-contribution-stats/)
 
-<!--
+
 **stevenhwu/stevenhwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
