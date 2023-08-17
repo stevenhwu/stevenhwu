@@ -1,8 +1,10 @@
 ## Steven's profile
 
 
-![Steven's github stats](https://github-readme-stats-2023-stevenhwu.vercel.app/api?username=stevenhwu&count_private=true&show_icons=true&theme=dark)
+![Steven's github stats](https://github-readme-stats-2023-stevenhwu.vercel.app/api?username=stevenhwu&show=reviewsshow_icons=true&theme=transparent&rank_icon=default&include_all_commits=true)
 <!--
+(https://github-readme-stats-2023-stevenhwu.vercel.app/api?username=stevenhwu&count_private=true&show_icons=true&theme=dark&rank_icon=percentile)
+
 ![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenhwu&count_private=true&show_icons=true&theme=dark)
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=stevenhwu&count_private=true&theme=dark)](https://github.com/LordDashMe/github-contribution-stats/)
 
@@ -10,9 +12,17 @@
 
 -->
 
-![Top Langs](https://github-readme-stats-2023-stevenhwu.vercel.app/api/top-langs/?username=stevenhwu&layout=compact&langs_count=8&count_private=false&theme=dark&hide=java,c%2B%2B)
+![Top Langs]
+https://github-readme-stats-2023-stevenhwu.vercel.app/api/top-langs/?username=stevenhwu&layout=compact&langs_count=8&count_private=true&theme=transparent&hide=[]&exclude_repo=[ABI]&size_weight=0.5&count_weight=0.5&hide_progress=true
 
 <!--
+&size_weight=0.1&count_weight=0.5
+&size_weight=0.5&count_weight=0.5
+&size_weight=1&count_weight=10
+<!--
+
+https://github-readme-stats-2023-stevenhwu.vercel.app/api/top-langs/?username=stevenhwu&layout=compact&langs_count=10&count_private=true&theme=transparent&hide=[]&size_weight=0.5&count_weight=0.5
+(https://github-readme-stats-2023-stevenhwu.vercel.app/api/top-langs/?username=stevenhwu&layout=compact&langs_count=8&count_private=true&theme=transparent&hide=java,c%2B%2B)
 (https://github-readme-stats-2023.vercel.app/api/top-langs/?username=stevenhwu&layout=compact&langs_count=8&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhwu&layout=compact&langs_count=8&count_private=true&theme=dark&hide=java,c%2B%2B)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhwu&layout=compact&langs_count=8&count_private=false&theme=dark&hide=java,c%2B%2B)
