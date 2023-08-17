@@ -1,7 +1,7 @@
 ## Steven's profile
 
 
-![Steven's github stats](https://github-readme-stats-2023-stevenhwu.vercel.app/api?username=stevenhwu&show=reviewsshow_icons=true&theme=transparent&rank_icon=default&include_all_commits=true)
+![Steven's github stats](https://github-readme-stats-stevenhwu.vercel.app/api?username=stevenhwu&show=reviewsshow_icons=true&theme=transparent&rank_icon=default&include_all_commits=true)
 <!--
 (https://github-readme-stats-2023-stevenhwu.vercel.app/api?username=stevenhwu&count_private=true&show_icons=true&theme=dark&rank_icon=percentile)
 
@@ -12,8 +12,7 @@
 
 -->
 
-![Top Langs]
-https://github-readme-stats-2023-stevenhwu.vercel.app/api/top-langs/?username=stevenhwu&layout=compact&langs_count=8&count_private=true&theme=transparent&hide=[]&exclude_repo=[ABI]&size_weight=0.5&count_weight=0.5&hide_progress=true
+![Top Langs](https://github-readme-stats-stevenhwu.vercel.app/api/top-langs/?username=stevenhwu&layout=compact&langs_count=8&count_private=true&theme=transparent&hide=[]&exclude_repo=[ABI]&size_weight=0.5&count_weight=0.5&hide_progress=true)
 
 <!--
 &size_weight=0.1&count_weight=0.5
